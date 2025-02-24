@@ -1,7 +1,7 @@
 # **Project 3: Designing Information Hierarchy for Decision-Making (Two Weeks)**  
 
-**Due Date:** March 9  
-**Total Marks:** 100???  
+**Due Date:** March 9, 2025, 11:59 PM 
+**Total Marks:** 100
 
 ---
 
@@ -9,17 +9,17 @@
 
 In this project, you will **collaboratively design an information hierarchy** for an application that allows users to:  
 
-- Identify and document issues.  
-- Propose actions to resolve those issues.  
-- Evaluate the effectiveness of those actions.  
+- **Identify and document issues.**  
+- **Propose actions to resolve those issues.**  
+- **Evaluate the effectiveness of those actions.**   
 
-This project will help you understand **how information is structured and presented** to users for effective decision-making. The final deliverable will be an **interactive Figma prototype** showcasing your group's information architecture and user flow.  
+This project will help you understand **how information is structured and presented** to users for **effective decision-making**. The final deliverable will be an **interactive Figma prototype** showcasing your group's information architecture and user flow.  
 
-The project is structured over two weeks:  
+The project is structured over **two weeks**:  
 1. **Week 1: Workshop, Initial Prototyping & Feedback**  
 2. **Week 2: Refinement & Interactive Prototyping**  
 
-[link to FigJam](https://www.figma.com/board/UFpqyiywrBZaKs0TtXJ994/P3-workshop?node-id=0-1&t=8b1K1PrjuXsLNDU6-1)
+[FigJam Collaboration Board](https://www.figma.com/board/UFpqyiywrBZaKs0TtXJ994/P3-workshop?node-id=0-1&t=8b1K1PrjuXsLNDU6-1)
 ---
 
 ## **Project Timeline & Instructions**  
@@ -28,7 +28,7 @@ The project is structured over two weeks:
 
 #### **Lecture (Workshop - In-Class Activity, February 25, 2025)**  
 
-**Goal:** Identify the key features and information hierarchy of the app.  
+**Goal:** Identify key features and structure the information hierarchy of the app.  
 
 1. **Brainstorming Issues (10 minutes)**  
    - In your groups, list issues you see in **SIAT at SFU** (e.g., course availability, student resources, communication gaps).  
@@ -51,15 +51,15 @@ The project is structured over two weeks:
 
 5. **Diagram the User Story & Information Flow**  
    - Sketch a **user journey**: How a user interacts with the app from **issue creation to evaluation**.  
-   - Visualize an **information flow**: How the data is structured and connected.  
+   - Visualize an **information flow**: How data is structured and connected.  
 
 #### **Lab (February 27-28, 2025): Preliminary Prototyping**  
 
 - Work in **groups** to create **low-fidelity wireframes** for your app in **Figma** or on **paper**.  
 - Focus on:  
-  - Information hierarchy clarity.  
-  - Layout structure for presenting issues, actions, and outcomes.  
-  - Logical user flow through the app.  
+  - **Clarity of information hierarchy.**  
+  - **Layout structure** for presenting issues, actions, and outcomes.  
+  - **Logical user flow** through the app.  
 - Submit your **wireframes/sketches** to the **Project 3 Lab Submission** on Canvas.  
 
 ---
@@ -68,26 +68,28 @@ The project is structured over two weeks:
 
 #### **Self-Directed Work: Update Low-Fidelity Prototypes (March 3-5, 2025)**  
 
-1. **Revise Information Structure**  
+1. **Refine Information Structure**  
    - Review feedback from Week 1.  
-   - Adjust the information hierarchy and user flow based on insights.  
-   - Update wireframes to better represent interactions.  
+   - Adjust the **hierarchy and user flow** based on insights.
+   - Ensure all key information is **clearly organized and accessible**.  
+   - Update wireframes to better represent interactions.
+
 
 2. **Create Digital Wireframes in Figma**  
    - Convert your **paper sketches** into **low-fidelity wireframes** in Figma.  
    - Ensure that:  
-     - The structure makes sense.  
-     - The user flow is intuitive.  
+     - The **layout makes sense** for decision-making.  
+     - The **user flow is intuitive and seamless**.  
 
 3. **Gather Feedback on Digital Wireframes**  
-   - Ask at least one other group for feedback.  
-   - Make **necessary refinements**.  
+   - Ask at least **one other group** for feedback.  
+   - Make **necessary refinements** to improve clarity and usability.
 
 #### **Lab (March 6-7, 2025): High-Fidelity & Interactive Prototyping**  
 
-- **Refine your Figma designs** to create a more **polished** prototype.  
-- Add **interactivity**: Users should be able to navigate through issue creation, action selection, and outcome evaluation.  
-- Ensure the **visual hierarchy** effectively guides users.  
+- **Refine your Figma designs** into a **high-fidelity interactive prototype**.  
+- Add **interactivity**: Users should be able to **navigate through issue creation, action selection, and outcome evaluation**.  
+- Ensure the **visual hierarchy** guides users **logically and effectively**.  
 - Submit your **interactive prototype link** and **final reflection** on Canvas.  
 
 ---
@@ -111,18 +113,18 @@ The project is structured over two weeks:
 
 | **Criteria**                        | **0%** | **25%** | **50%** | **75%** | **100%** | **Marks** |
 |-------------------------------------|--------|---------|---------|---------|---------|-----------|
-| **Information Hierarchy Clarity**   | No clear structure. | Some structure, lacks coherence. | Basic hierarchy present, but inconsistent. | Clear and logical hierarchy supporting decision-making. | Strong, intuitive hierarchy improving user interaction. | 30 |
+| **Information Hierarchy Clarity**   | No clear structure. | Some structure, lacks coherence. | Basic hierarchy present, but inconsistent. | Clear and logical hierarchy supporting decision-making. | Strong, intuitive hierarchy improving user experience. | 30 |
 | **Wireframe & Prototype Quality**  | No wireframe or prototype. | Incomplete wireframe, lacks clarity. | Basic prototype with limited interactivity. | Functional prototype with clear user flow. | Polished, professional interactive prototype. | 30 |
-| **Integration of Feedback**         | No feedback considered. | Minimal feedback applied. | Some improvements based on feedback. | Meaningful revisions enhancing usability. | Excellent integration of feedback leading to a high-quality prototype. | 20 |
+| **Integration of Feedback & Refinement**         | No feedback considered. | Minimal feedback applied. | Some improvements based on feedback. | Meaningful revisions enhancing usability. | Excellent integration of feedback leading to a high-quality prototype. | 20 |
 | **Team Collaboration & Reflection** | No collaboration evident. | Uneven contribution, minimal reflection. | Some collaboration, basic reflection. | Effective teamwork, insightful reflection. | Strong collaboration, deep reflection on challenges and learning. | 20 |
 
 ---
 
 ## **Learning Resources**  
 
-- [Figma Prototyping Basics](https://help.figma.com/hc/en-us/articles/360039816774-Create-interactive-prototypes)  
+- [Guide to Prototyping in Figma](https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma) 
 - [Information Architecture Basics](https://www.interaction-design.org/literature/topics/information-architecture)  
-- [Hierarchy in UX Design](https://uxdesign.cc/the-role-of-hierarchy-in-ui-design-cc0f1e0d8d28)  
+- [Visual Hierarchy](https://uxdesign.cc/visual-hierarchy-be332b615c06)  
 
 ---
 
