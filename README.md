@@ -9,11 +9,11 @@
 
 In this project, you will **collaboratively design an information hierarchy** for an application that allows users to:  
 
-- **Identify and document issues.**  
+- **Identify and document issues for SIAT.**  
 - **Propose actions to resolve those issues.**  
-- **Evaluate the effectiveness of those actions.**   
+- **Evaluate the effectiveness of those actions.**
 
-This project will help you understand **how information is structured and presented** to users for **effective decision-making**. The final deliverable will be an **interactive Figma prototype** showcasing your group's information architecture and user flow.  
+The final deliverable will be an **interactive Figma prototype** showcasing your group's information architecture and user flow. Treat this as a proposal for how the application for issue and action tracking should be designed.
 
 The project is structured over **two weeks**:  
 1. **Week 1: Workshop, Initial Prototyping & Feedback**  
@@ -62,35 +62,27 @@ The project is structured over **two weeks**:
   - **Logical user flow** through the app.  
 - Submit your **wireframes/sketches** to the **Project 3 Lab Submission** on Canvas.  
 
----
+### **Leading to Week 2**
+
+1. **Refine Information Structure**  
+   - Work with your group and update your design based on the workshop in class 
+   - Create a user story diagram based on [Nielsen's group](https://www.nngroup.com/articles/user-story-mapping/)
+   - Iterate and finalize your wireframe to reflect the user story.
 
 ### **Week 2: Refinement & Interactive Prototyping**  
 
-#### **Self-Directed Work: Update Low-Fidelity Prototypes (March 3-5, 2025)**  
+#### **Lab: Get feedback on your wireframes and start working on high-fidelity prototypes**  
 
-1. **Refine Information Structure**  
-   - Review feedback from Week 1.  
-   - Adjust the **hierarchy and user flow** based on insights.
-   - Ensure all key information is **clearly organized and accessible**.  
-   - Update wireframes to better represent interactions.
-
-
-2. **Create Digital Wireframes in Figma**  
-   - Convert your **paper sketches** into **low-fidelity wireframes** in Figma.  
-   - Ensure that:  
-     - The **layout makes sense** for decision-making.  
-     - The **user flow is intuitive and seamless**.  
-
-3. **Gather Feedback on Digital Wireframes**  
-   - Ask at least **one other group** for feedback.  
+**Gather Feedback on Digital Wireframes**  
+   - Ask **one other group** for feedback.
+   - Both about visual clarity and interactions
    - Make **necessary refinements** to improve clarity and usability.
 
-#### **Lab (March 6-7, 2025): High-Fidelity & Interactive Prototyping**  
-
+#### **Leading to submission**  
 - **Refine your Figma designs** into a **high-fidelity interactive prototype**.  
 - Add **interactivity**: Users should be able to **navigate through issue creation, action selection, and outcome evaluation**.  
-- Ensure the **visual hierarchy** guides users **logically and effectively**.  
-- Submit your **interactive prototype link** and **final reflection** on Canvas.  
+- Ensure the **visual hierarchy** guides users **logically and effectively**.
+- Write a one-page summary of your proposal as a group.
 
 ---
 
