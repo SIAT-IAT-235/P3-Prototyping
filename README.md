@@ -53,7 +53,7 @@ The project is structured over **two weeks**:
    - Sketch a **user journey**: How a user interacts with the app from **issue creation to evaluation**.  
    - Visualize an **information flow**: How data is structured and connected.  
 
-#### **Lab (February 27-28, 2025): Preliminary Prototyping**  
+#### **Lab: Preliminary Prototyping**  
 
 - Work in **groups** to create **low-fidelity wireframes** for your app in **Figma** or on **paper**.  
 - Focus on:  
