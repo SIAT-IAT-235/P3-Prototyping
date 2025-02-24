@@ -19,6 +19,7 @@ The project is structured over two weeks:
 1. **Week 1: Workshop, Initial Prototyping & Feedback**  
 2. **Week 2: Refinement & Interactive Prototyping**  
 
+[link to FigJam](https://www.figma.com/board/UFpqyiywrBZaKs0TtXJ994/P3-workshop?node-id=0-1&t=8b1K1PrjuXsLNDU6-1)
 ---
 
 ## **Project Timeline & Instructions**  
