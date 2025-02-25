@@ -15,6 +15,8 @@ In this project, you will **collaboratively design an information hierarchy** fo
 
 The final deliverable will be an **interactive Figma prototype** showcasing your group's **information architecture and user flow**. Treat this as a **proposal** for how the application for **issue and action tracking** should be designed.  
 
+**This project must be completed in groups of 3 or 4.** 
+
 The project is structured over **two weeks**:  
 1. **Week 1: Workshop, Initial Prototyping & Feedback**  
 2. **Week 2: Refinement & Interactive Prototyping**  
@@ -58,7 +60,7 @@ The project is structured over **two weeks**:
 
 ### **Week 1 Lab: Preliminary Prototyping**  
 
-- Work in **groups** to create **low-fidelity wireframes** for your app in **Figma** or on **paper**.  
+- Work in **groups of 3 or 4** to create **low-fidelity wireframes** for your app in **Figma** or on **paper**.  
 - Focus on:  
   - **Clarity of information hierarchy.**  
   - **Layout structure** for presenting issues, actions, and outcomes.  
