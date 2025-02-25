@@ -146,8 +146,8 @@ The project is structured over **two weeks**:
 
 | **Date**        | **Task** |
 |----------------|----------|
-| **Feb 25 (Lecture)** | Workshop: Brainstorm features & define information hierarchy |
-| **Feb 27-28 (Labs)** | Create **low-fidelity wireframes** in Figma or on paper |
-| **March 3-5** | Update low-fidelity wireframes & gather feedback |
-| **March 6-7 (Labs)** | Refine prototypes & create an **interactive** version in Figma |
+| **Feb 24 (Lecture)** | Workshop: Brainstorm features & define information hierarchy |
+| **Feb 24 (Lab)** | Create **low-fidelity wireframes** in Figma or on paper |
+| **Feb 25 - March 2** | Update low-fidelity wireframes & gather feedback |
+| **March 3 (Lab)** | Refine prototypes & create an **interactive** version in Figma |
 | **March 9** | **Final submission on Canvas** |
